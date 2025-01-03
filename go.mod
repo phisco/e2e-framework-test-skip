@@ -2,7 +2,7 @@ module github.com/phisco/e2e-framework-test-skip
 
 go 1.23.4
 
-require sigs.k8s.io/e2e-framework v0.5.0
+require sigs.k8s.io/e2e-framework v0.4.0
 
 require (
 	github.com/beorn7/perks v1.0.1 // indirect
